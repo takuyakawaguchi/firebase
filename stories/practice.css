@@ -1,0 +1,27 @@
+.practice{
+border: 0;
+border-radius: 1em;
+display: inline-block;
+  color: white;
+}
+.default{
+    background-color: black;
+}
+.primary{
+    background-color: aqua;
+}
+.secondary{
+    background-color: rgb(32, 183, 85);
+}
+.normal{
+    font-size: 30px;
+    padding: 20px;
+}
+.small{
+    font-size: 14px;
+    padding: 10px;
+}
+.big{
+    font-size: 60px;
+    padding: 30px;
+}
