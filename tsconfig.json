@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/firebase/initializeApp.js"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/firebase/initializeApp.js", "stories/Task.js", "stories/Task.js", "src/stories/Signup.stories.js"],
   "exclude": ["node_modules"]
 }
